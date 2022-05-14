@@ -99,3 +99,23 @@ BITWISE OPERATION ON IMAGES
 
 ![bitwise](https://user-images.githubusercontent.com/102857029/168418971-a264fd38-7b30-4655-b79b-c30b0cf7d37e.JPG)
 
+
+
+
+
+
+
+
+
+
+THRESH
+![thresh](https://user-images.githubusercontent.com/102857029/168419324-f88b2f0d-47a7-442c-91f3-34863b86a75f.JPG)
+
+
+
+
+
+
+
+
+
