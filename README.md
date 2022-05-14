@@ -8,3 +8,6 @@ FACE DETECTION IN AN IMAGE
 EDGE DETECTION 
 
 
+![edge detection](https://user-images.githubusercontent.com/102857029/168418848-a5d78a97-dd20-4deb-9552-318eaf740f19.JPG)
+
+
